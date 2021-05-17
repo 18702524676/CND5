@@ -1,2 +1,0 @@
-# CND5
-Mysql
